@@ -1,0 +1,1264 @@
+{
+    "sources": [
+        {
+            "name": "Ignited Entry",
+            "developer": "JordiBoi",
+            "link": "https://jordiboi.itch.io/ignited-entry",
+            "description": "The corpse is alive.",
+            "price": "Free"
+        },
+        {
+            "name": "Incredibox - Sprunki",
+            "developer": "wolf_halVerified Account",
+            "link": "https://wolf-hal.itch.io/incredibox-sprunki",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "Camping Trip",
+            "developer": "Bar Boot Games",
+            "link": "https://barbootgames.itch.io/camping-trip",
+            "description": "\"Camping Trip\" is a short single-player horror game inspired by the PSX style, made using the Godot Engine.",
+            "price": "Free"
+        },
+        {
+            "name": "The Broken Vow",
+            "developer": "Escapebox",
+            "link": "https://escapebox.itch.io/the-broken-vow",
+            "description": "Short Horror Game",
+            "price": "Free"
+        },
+        {
+            "name": "Bad Parenting 1: Mr Red Face",
+            "developer": "2OO2",
+            "link": "https://2oo2.itch.io/bad-parenting-1",
+            "description": "Short Horror Game",
+            "price": "Free"
+        },
+        {
+            "name": "Louise KILLS The Belchers! (Bob's Burgers)",
+            "developer": "David Mills",
+            "link": "https://shadowband.itch.io/louise-kills-the-belchers-bobs-burgers",
+            "description": "The burger of the day...is DEATH!",
+            "price": "Free"
+        },
+        {
+            "name": "Midnight snack",
+            "developer": "BaconSlayer",
+            "link": "https://baconslayer.itch.io/midnightsnack",
+            "description": "You stayed up late and begin craving a midnight snack",
+            "price": "Free"
+        },
+        {
+            "name": "The Beacon's End",
+            "developer": "CapCrowGames",
+            "link": "https://capcrowgames.itch.io/the-beacons-end",
+            "description": "A short PSX / VHS horror game",
+            "price": "Free"
+        },
+        {
+            "name": "Broken Through",
+            "developer": "JordiBoi",
+            "link": "https://jordiboi.itch.io/brokenthrough",
+            "description": "This is no ordinary game\u00e2\u0080\u00a6",
+            "price": "Free"
+        },
+        {
+            "name": "Astronought",
+            "developer": "DeersphereStudios",
+            "link": "https://deerspherestudios.itch.io/astronought",
+            "description": "trapped in space with a stranger too keen on getting to know you. a short sci-fi horror/romance (??) vn",
+            "price": "Free"
+        },
+        {
+            "name": "Chakana",
+            "developer": "Tiz010",
+            "link": "https://tiz010.itch.io/chakana-chapter-1",
+            "description": "An ordinary date takes a dark turn. How will you handle it?",
+            "price": "Free"
+        },
+        {
+            "name": "Nomad Idle",
+            "developer": "The Fox Knocks",
+            "link": "https://thefoxknocks.itch.io/nomad-idle",
+            "description": "Idle game auto-battler where you create builds and have your character kill hordes of enemies.",
+            "price": "Free"
+        },
+        {
+            "name": "\"Voices Of The Void\" Pre-Alpha",
+            "developer": "mrdrnose",
+            "link": "https://mrdrnose.itch.io/votv",
+            "description": "Gather unknown signals from deep, silent space",
+            "price": "Free"
+        },
+        {
+            "name": "Darling, Darling... Dead?",
+            "developer": "Chthonic Chrome Studio",
+            "link": "https://chthonicchromestudio.itch.io/darling-darling-dead",
+            "description": "yandere x yandere x yandere",
+            "price": "Free"
+        },
+        {
+            "name": "Blood Cleaner",
+            "developer": "Foxxxyy Studio",
+            "link": "https://foxxyystudio.itch.io/blood-cleaner",
+            "description": "Uncover the stains of a dark past\u00e2\u0080\u0094clean up, or become part of the mess in Blood Cleaner.",
+            "price": "Free"
+        },
+        {
+            "name": "UNCURSED ( DEMO )",
+            "developer": "AJB GAMES STUDIO",
+            "link": "https://ajbstudio.itch.io/uncursed-demo",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "Dollmare (demo)",
+            "developer": "alxgrade",
+            "link": "https://alxgrade.itch.io/dollmare-demo",
+            "description": "Scary game about working at a toy factory",
+            "price": "Free"
+        },
+        {
+            "name": "The Pizza",
+            "developer": "Ibrahim Oezhan",
+            "link": "https://ibrahim-oezhan.itch.io/the-pizza",
+            "description": "Short psx-horror about ordering pizza",
+            "price": "Free"
+        },
+        {
+            "name": "Narrow One",
+            "developer": "Pelican Party",
+            "link": "https://pelicanparty.itch.io/narrow-one",
+            "description": "\u00f0\u009f\u008f\u00b9 Capture The Flag Medieval Style \u00f0\u009f\u008f\u00b9",
+            "price": "Free"
+        },
+        {
+            "name": "EyeOS",
+            "developer": "trainspotter",
+            "link": "https://trainspotter.itch.io/eyeos",
+            "description": "Find your lost friend by snooping through their Apple II inspired computer.",
+            "price": "Free"
+        },
+        {
+            "name": "Old Towers (NES Famicom)",
+            "developer": "RetroSouls",
+            "link": "https://retrosouls.itch.io/old-towers-nes-famicom",
+            "description": "Become an antigravity hero!",
+            "price": "Free"
+        },
+        {
+            "name": "The Children of Clay",
+            "developer": "messier",
+            "link": "https://ronyaib.itch.io/the-children-of-clay",
+            "description": "Stop-motion archeology horror game",
+            "price": "Free"
+        },
+        {
+            "name": "[Nightmare Files] Clap Clap",
+            "developer": "raycastly",
+            "link": "https://raycastly.itch.io/clap-clap",
+            "description": "Short horror where you play as a house sitter, experiencing strange occurrences in a seemingly ordinary home.",
+            "price": "Free"
+        },
+        {
+            "name": "ATLYSS",
+            "developer": "Kiseff",
+            "link": "https://kiseff.itch.io/atlyss",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "SECRETS",
+            "developer": "Wizbit Games",
+            "link": "https://wizbitgames.itch.io/secrets",
+            "description": "80s Adventure game for the ZX Spectrum 48k",
+            "price": "Free"
+        },
+        {
+            "name": "Backstreet Warriors",
+            "developer": "SebaGamesDev",
+            "link": "https://sebagamesdev.itch.io/backstreet-warriors",
+            "description": "Intense and minimalistic Beat'em up made for Pico-8.",
+            "price": "Free"
+        },
+        {
+            "name": "Nocturnal Visit",
+            "developer": "MoiDev",
+            "link": "https://moi0210.itch.io/nocturnal-visit",
+            "description": "Short horror game set in an abandoned house.",
+            "price": "Free"
+        },
+        {
+            "name": "PARAEDOLON",
+            "developer": "KIRA",
+            "link": "https://akuma-kira.itch.io/paraedolon",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "Funeralopolis | Last Days",
+            "developer": "BananaDevJeff",
+            "link": "https://banana-jeff.itch.io/dniostatnie",
+            "description": "Last days before the skies of Huta-Grobno city turned red",
+            "price": "Free"
+        },
+        {
+            "name": "Metropolis 1998",
+            "developer": "YesBox",
+            "link": "https://yesbox.itch.io/metropolis1998",
+            "description": "Recreating childhood pixel by pixel.  A beautiful throwback to the city builder & simulation games of the 90s/00s.",
+            "price": "Free"
+        },
+        {
+            "name": "Rotting Railway",
+            "developer": "TheBigOnionInstitute",
+            "link": "https://thebigonioninstitute.itch.io/rotting-railway",
+            "description": "Can you survive the onslaught of the undead?",
+            "price": "Free"
+        },
+        {
+            "name": "Ruptured Tape",
+            "developer": "TheGonzaDev",
+            "link": "https://thegonzadev.itch.io/ruptured-tape",
+            "description": "Atmospheric/Action horror inside a VHS tape.",
+            "price": "Free"
+        },
+        {
+            "name": "Detective Beebo: Night at the Mansion",
+            "developer": "Bwobbers",
+            "link": "https://bwobbers.itch.io/detective-beebo-night-at-the-mansion",
+            "description": "On an urban city like any other, an office awakes",
+            "price": "Free"
+        },
+        {
+            "name": "LevelHeaded",
+            "developer": "Isopoda Studios",
+            "link": "https://isopodagames.itch.io/levelheaded",
+            "description": "An elevator ride into the depths of the mind...",
+            "price": "Free"
+        },
+        {
+            "name": "Pumpkin Panic",
+            "developer": "Bilalaika",
+            "link": "https://bilalaika.itch.io/pumpkin-panic",
+            "description": "Try to survive in this cute farm. Farming/SurvivalHorror",
+            "price": "Free"
+        },
+        {
+            "name": "Leftovers",
+            "developer": "Realmpact",
+            "link": "https://realmpact.itch.io/leftovers",
+            "description": "Don't talk to strangers, unless your mother needs you to.",
+            "price": "Free"
+        },
+        {
+            "name": "Cellmount: Automata",
+            "developer": "HempuliVerified Account",
+            "link": "https://hempuli.itch.io/cellmount-automata",
+            "description": "I apologize in advance",
+            "price": "Free"
+        },
+        {
+            "name": "A Date with Death",
+            "developer": "Two and a Half StudiosVerified Account",
+            "link": "https://twoandahalfstudios.itch.io/a-date-with-death",
+            "description": "Enter a week long bet against the Grim Reaper to keep your soul... and maybe fall in love along the way?",
+            "price": "Free"
+        },
+        {
+            "name": "Exhibit of Sorrows",
+            "developer": "adayofjoy",
+            "link": "https://adayofjoy.itch.io/exhibit-of-sorrows",
+            "description": "Have fun with seemingly friendly dolls and a not so friendly clown.",
+            "price": "Free"
+        },
+        {
+            "name": "TOUCHSTARVED: A Dark Romance Visual Novel",
+            "developer": "Red Spring Studio",
+            "link": "https://redspringstudio.itch.io/touchstarved",
+            "description": "Find a cure for your curse by entrusting your fate to 5 monstrous love interests",
+            "price": "Free"
+        },
+        {
+            "name": "Sort the Court!",
+            "developer": "Graeme Borland",
+            "link": "https://graebor.itch.io/sort-the-court",
+            "description": "Give your decree in simple yes or no answers, and help the kingdom grow!",
+            "price": "Free"
+        },
+        {
+            "name": "Doki Doki Literature Club!",
+            "developer": "Team SalvatoVerified Account",
+            "link": "https://teamsalvato.itch.io/ddlc",
+            "description": "Will you write the way into her heart?",
+            "price": "Free"
+        },
+        {
+            "name": "Cryptid Coffeehouse",
+            "developer": "nukes",
+            "link": "https://nyewks.itch.io/cryptid-coffeehouse",
+            "description": "the (moth)man, the myth, the legend: now in sexy dateable human form",
+            "price": "Free"
+        },
+        {
+            "name": "Killer Chat!",
+            "developer": "rosesrot",
+            "link": "https://rosesrot.itch.io/killer-chat",
+            "description": "You're a writer that's been (mistakenly) invited to a serial killer server. Uh oh.",
+            "price": "Free"
+        },
+        {
+            "name": "Slide in the woods",
+            "developer": "Jonny's Games",
+            "link": "https://jonnys-games.itch.io/slide-in-the-woods",
+            "description": "Ride it, see where it takes you.",
+            "price": "Free"
+        },
+        {
+            "name": "HoloCure",
+            "developer": "Kay Yu",
+            "link": "https://kay-yu.itch.io/holocure",
+            "description": "A 'survivors' like, free unofficial Hololive fan game!",
+            "price": "Free"
+        },
+        {
+            "name": "Who wants to be a Murderer?",
+            "developer": "Coding4rtist",
+            "link": "https://coding4rtist.itch.io/who-wants-to-be-a-murderer",
+            "description": "A psychological horror game set in a TV game show straight out of the 90s",
+            "price": "Free"
+        },
+        {
+            "name": "ULTRAKILL Prelude",
+            "developer": "Hakita",
+            "link": "https://hakita.itch.io/ultrakill-prelude",
+            "description": "A fast-paced ultraviolent old school FPS with Character Action influences.",
+            "price": "Free"
+        },
+        {
+            "name": "Six Cats Under",
+            "developer": "Team Bean Loop",
+            "link": "https://teambeanloop.itch.io/six-cats-under",
+            "description": "You died. Your unfinished business? The fate of your many cats!",
+            "price": "Free"
+        },
+        {
+            "name": "ERROR143",
+            "developer": "Jenny Vi Pham",
+            "link": "https://jennyvipham.itch.io/error143",
+            "description": "A fully voiced bickering-and-bantering rivals-to-lovers visual novel <3",
+            "price": "Free"
+        },
+        {
+            "name": "Mushroom Oasis",
+            "developer": "DeersphereStudios",
+            "link": "https://deerspherestudios.itch.io/mushroom-oasis",
+            "description": "beware of toxic fungi. a slow burn yandere vn",
+            "price": "Free"
+        },
+        {
+            "name": "\u00e2\u0080\u008bOur Life: Beginnings & Always",
+            "developer": "GBPatchVerified Account",
+            "link": "https://gbpatch.itch.io/our-life",
+            "description": "Grow from childhood to adulthood with the lonely boy next door in this near-fully customizable visual novel.",
+            "price": "Free"
+        },
+        {
+            "name": "Mindustry",
+            "developer": "AnukeVerified Account",
+            "link": "https://anuke.itch.io/mindustry",
+            "description": "The automation tower defense game",
+            "price": "Free"
+        },
+        {
+            "name": "Start Survey?",
+            "developer": "PixelDough",
+            "link": "https://pixeldough.itch.io/start-survey",
+            "description": "You star in tonight's episode of... The Midnight Zone",
+            "price": "Free"
+        },
+        {
+            "name": "Blooming Panic",
+            "developer": "robobarbie",
+            "link": "https://robobarbie.itch.io/blooming-panic",
+            "description": "Welcome to our server!",
+            "price": "Free"
+        },
+        {
+            "name": "Cryptid Crush",
+            "developer": "Drowsy Drake Studios",
+            "link": "https://drowsy-drake-studios.itch.io/cryptid-crush",
+            "description": "A TTRPG inspired Cryptid Sim! Meet Monsters, crush on cryptids.",
+            "price": "Free"
+        },
+        {
+            "name": "an average day at the cat cafe",
+            "developer": "angela he",
+            "link": "https://zephyo.itch.io/an-average-day-at-the-cat-cafe",
+            "description": "Serve quirky customers as the days pass by~ How long can you keep the cafe open?",
+            "price": "Free"
+        },
+        {
+            "name": "Our Life: Now & Forever",
+            "developer": "GBPatchVerified Account",
+            "link": "https://gbpatch.itch.io/our-life-nf",
+            "description": "A paper airplane, two new neighbors, four autumns, and a one of a kind life.",
+            "price": "Free"
+        },
+        {
+            "name": "The Shopping List",
+            "developer": "JordiBoi",
+            "link": "https://jordiboi.itch.io/theshoppinglist",
+            "description": "Dont go shopping at night...",
+            "price": "Free"
+        },
+        {
+            "name": "Tanuki Sunset Classic",
+            "developer": "Rewind Games",
+            "link": "https://rewindgames.itch.io/tanuki-sunset",
+            "description": "Raccoons riding longboards on this retro themed relaxing arcade game",
+            "price": "Free"
+        },
+        {
+            "name": "Elevator Hitch",
+            "developer": "racheldrawsthis",
+            "link": "https://racheldrawsthis.itch.io/elevator-hitch",
+            "description": "70s office elevator themed surreal horror/escape room visual novel",
+            "price": "Free"
+        },
+        {
+            "name": "Dead Plate",
+            "developer": "racheldrawsthis",
+            "link": "https://racheldrawsthis.itch.io/dead-plate",
+            "description": "60s French restaurant tycoon themed rpg horror game about a waiter and a chef",
+            "price": "Free"
+        },
+        {
+            "name": "Billie Bust Up! Kickstarter Demo",
+            "developer": "Billie Bust Up",
+            "link": "https://billiebustup.itch.io/billiebustup",
+            "description": "A Musical 3D Platformer with cute characters and catchy villain songs!\u00f0\u009f\u008e\u00b6",
+            "price": "Free"
+        },
+        {
+            "name": "We Become What We Behold",
+            "developer": "Nicky Case!",
+            "link": "https://ncase.itch.io/wbwwb",
+            "description": "a game about news cycles, vicious cycles, infinite cycles",
+            "price": "Free"
+        },
+        {
+            "name": "Creature packets",
+            "developer": "kenforest",
+            "link": "https://kenforest.itch.io/creature-packets",
+            "description": "Game about cooking tiny creatures",
+            "price": "Free"
+        },
+        {
+            "name": "Prescription:LOVE",
+            "developer": "Livingslime",
+            "link": "https://livingslime.itch.io/prescriptionlove",
+            "description": "You may see the doctor now... Forever \u00e2\u0099\u00a1",
+            "price": "Free"
+        },
+        {
+            "name": "Andromeda Six",
+            "developer": "Wanderlust Games",
+            "link": "https://wanderlust-games.itch.io/andromeda-six",
+            "description": "A sci-fi themed Visual Novel game.",
+            "price": "Free"
+        },
+        {
+            "name": "DELIVERY MYSTERY-100%",
+            "developer": "Maximillium",
+            "link": "https://maximillium-studios.itch.io/delivery-mystery",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "Wrong Floor",
+            "developer": "N4bAVerified Account",
+            "link": "https://n4ba.itch.io/wrong-floor",
+            "description": "do you want to be scared?",
+            "price": "Free"
+        },
+        {
+            "name": "Perfect Vermin",
+            "developer": "ItsTheTalia",
+            "link": "https://itsthetalia.itch.io/perfect-vermin",
+            "description": "It's Not Violence.",
+            "price": "Free"
+        },
+        {
+            "name": "Dreader",
+            "developer": "Donitz",
+            "link": "https://donitz.itch.io/dreader",
+            "description": "Retro mouse maze horror game",
+            "price": "Free"
+        },
+        {
+            "name": "Look Outside",
+            "developer": "FrankieSmileShow",
+            "link": "https://frankiesmileshow.itch.io/look-outside",
+            "description": "Survival horror RPG where you are stuck in an apartment building and all of your neighbors have turned into monsters.",
+            "price": "Free"
+        },
+        {
+            "name": "Death Flush",
+            "developer": "Impostersyndrome",
+            "link": "https://impostersyndrome.itch.io/death-flush",
+            "description": "Will this trip to the bathroom be your last?",
+            "price": "Free"
+        },
+        {
+            "name": "seekL",
+            "developer": "robobarbie",
+            "link": "https://robobarbie.itch.io/seekl",
+            "description": "Seek / Query / Love",
+            "price": "Free"
+        },
+        {
+            "name": "ClanGen",
+            "developer": "SableSteel",
+            "link": "https://sablesteel.itch.io/clan-gen-fan-edit",
+            "description": "Free, fan-made, warrior cat clan generator and story building game.",
+            "price": "Free"
+        },
+        {
+            "name": "last seen online",
+            "developer": "qwook",
+            "link": "https://qwook.itch.io/last-seen-online",
+            "description": "Look through someone else\u00e2\u0080\u0099s computer. Inspired by early \u00e2\u0080\u009cescape room\u00e2\u0080\u009d flash games.",
+            "price": "Free"
+        },
+        {
+            "name": "Do NOT Take This Cat Home",
+            "developer": "Pixeliminal",
+            "link": "https://pixeliminal.itch.io/do-not-take-this-cat-home",
+            "description": "You find a cute cat all alone in an alley. What will you do?",
+            "price": "Free"
+        },
+        {
+            "name": "Project Kat",
+            "developer": "Leef 6010Verified Account",
+            "link": "https://leef6010.itch.io/projectkat",
+            "description": "A small, unconventional horror rpg.",
+            "price": "Free"
+        },
+        {
+            "name": "Cold Front",
+            "developer": "racheldrawsthis",
+            "link": "https://racheldrawsthis.itch.io/cold-front",
+            "description": "A short RPG horror/story game about unstable friendships and blizzards in july",
+            "price": "Free"
+        },
+        {
+            "name": "How Fish is Made",
+            "developer": "KASURAGA",
+            "link": "https://kasuraga.itch.io/how-fish-is-made",
+            "description": "Live through the power fantasy of being a sardine. Make oily friends. Make good choices.",
+            "price": "Free"
+        },
+        {
+            "name": "The Other Side",
+            "developer": "Mike Klubnika",
+            "link": "https://mikeklubnika.itch.io/the-other-side",
+            "description": "Maintain a jury-rigged drill and use it to escape a corrupt shelter.",
+            "price": "Free"
+        },
+        {
+            "name": "Killer Trait",
+            "developer": "prikarin",
+            "link": "https://prikarin.itch.io/killer-trait",
+            "description": "Would you ally with a serial killer to get revenge on your worst enemy?",
+            "price": "Free"
+        },
+        {
+            "name": "Flesh, Blood, & Concrete",
+            "developer": "io",
+            "link": "https://waxwing0.itch.io/fbc",
+            "description": "RPG Maker Horror/Apartment Building Exploration Simulator",
+            "price": "Free"
+        },
+        {
+            "name": "No Robots Allowed",
+            "developer": "CatTrigger",
+            "link": "https://cattrigger.itch.io/no-robots-allowed",
+            "description": "Prove you're HUMAN to me!",
+            "price": "Free"
+        },
+        {
+            "name": "Soul Void",
+            "developer": "Kadabura",
+            "link": "https://kadabura.itch.io/soul-void",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "NEET Girl Date Night",
+            "developer": "Hitsuji",
+            "link": "https://hitsujigoods.itch.io/ngdn",
+            "description": "A dating sim about a girl who never leaves her bedroom.",
+            "price": "Free"
+        },
+        {
+            "name": "Parasite in Love",
+            "developer": "Night Asobu",
+            "link": "https://night-asobu.itch.io/parasite-in-love",
+            "description": "A biological romance horror visual novel",
+            "price": "Free"
+        },
+        {
+            "name": "Fears to Fathom - Home Alone",
+            "developer": "Rayll",
+            "link": "https://rayll.itch.io/fears-to-fathom",
+            "description": "Unsettling Home Invasion Horror",
+            "price": "Free"
+        },
+        {
+            "name": "Late Night Mop",
+            "developer": "LixianGames",
+            "link": "https://lixiangames.itch.io/late-night-mop",
+            "description": "A haunted house cleaning simulator.",
+            "price": "Free"
+        },
+        {
+            "name": "goodbye, doggy",
+            "developer": "Picogram",
+            "link": "https://picogram.itch.io/goodbye-doggy",
+            "description": "Help your family cope with your death as a ghostly dog!",
+            "price": "Free"
+        },
+        {
+            "name": "Perfect Love",
+            "developer": "C4Game",
+            "link": "https://c4game.itch.io/perfectlove",
+            "description": "Won't you do anything to make your perfect love?",
+            "price": "Free"
+        },
+        {
+            "name": "Trapped with Jester",
+            "developer": "Anta",
+            "link": "https://ant-san.itch.io/jester",
+            "description": "You wake up in a carriage with an annoying stranger...",
+            "price": "Free"
+        },
+        {
+            "name": "Cupid's Kiss: a short, romance comedy",
+            "developer": "MarySueGames",
+            "link": "https://marysuegames.itch.io/cupids-kiss",
+            "description": "Smooch your tropey troubles away \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+            "price": "Free"
+        },
+        {
+            "name": "Cinderella Phenomenon",
+            "developer": "Dicesuki",
+            "link": "https://dicesuki.itch.io/cinderella-phenomenon",
+            "description": "Cinderella Phenomenon is a free otome game that was inspired by various popular fairy tales.",
+            "price": "Free"
+        },
+        {
+            "name": "JOHN DOE +",
+            "developer": "Scopophobia Studios",
+            "link": "https://mortisfox.itch.io/john-doe-plus",
+            "description": "Remake of \"JOHN DOE\"",
+            "price": "Free"
+        },
+        {
+            "name": "MakePlace",
+            "developer": "jawslouis",
+            "link": "https://jawslouis.itch.io/makeplace",
+            "description": "An Interior Decor Simulator",
+            "price": "Free"
+        },
+        {
+            "name": "WEBFISHING (JAM) [NOW ON STEAM!]",
+            "developer": "lamedeveloper",
+            "link": "https://lamedeveloper.itch.io/webfishing",
+            "description": "An online fishing chat game!",
+            "price": "Free"
+        },
+        {
+            "name": "Lumiterra",
+            "developer": "Lumiterra",
+            "link": "https://lumiterra.itch.io/game",
+            "description": "\u00f0\u009f\u00a7\u0091\u00e2\u0080\u008d\u00f0\u009f\u00a4\u009d\u00e2\u0080\u008d\u00f0\u009f\u00a7\u0091Multiplayers \u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00f0\u009f\u008c\u00beFarm \u00e2\u009a\u0094\u00ef\u00b8\u008fBattle  \u00f0\u009f\u0097\u00ba\u00ef\u00b8\u008f Explore",
+            "price": "Free"
+        },
+        {
+            "name": "Baldi's Basics Classic Remastered",
+            "developer": "Basically GamesVerified Account",
+            "link": "https://basically-games.itch.io/baldis-basics-classic-remastered",
+            "description": "The ultimate version of Baldi's Basics Classic!",
+            "price": "Free"
+        },
+        {
+            "name": "Die in the Dungeon CLASSIC",
+            "developer": "Alarts",
+            "link": "https://alarts.itch.io/die-in-the-dungeon",
+            "description": "A turn-based, deck-building roguelite focused on dice combinations!",
+            "price": "Free"
+        },
+        {
+            "name": "Swooning Over Stans",
+            "developer": "sovonight",
+            "link": "https://sovonight.itch.io/swooning-over-stans",
+            "description": "A Grunkle Dating Sim",
+            "price": "Free"
+        },
+        {
+            "name": "Outrun DEMO",
+            "developer": "DeanTheDev",
+            "link": "https://deanthedev.itch.io/outrun",
+            "description": "Two stories hide one truth. Listen to both Emma and Allison\u00e2\u0080\u0094if you dare to understand.",
+            "price": "Free"
+        },
+        {
+            "name": "Keyframes",
+            "developer": "(BLANK) HOUSE",
+            "link": "https://blank-house.itch.io/keyframes",
+            "description": "Holy shit, this is basically just college, huh?",
+            "price": "Free"
+        },
+        {
+            "name": "intertwine",
+            "developer": "Crescence StudioVerified Account",
+            "link": "https://crescence-studio.itch.io/intertwine",
+            "description": "a fated love: will you follow the string until it turns red?",
+            "price": "Free"
+        },
+        {
+            "name": "Contract Demon",
+            "developer": "NomnomNami",
+            "link": "https://nomnomnami.itch.io/contract-demon",
+            "description": "an angel summons a demon. they fall in love.",
+            "price": "Free"
+        },
+        {
+            "name": "Half Sword",
+            "developer": "Knives_Frank",
+            "link": "https://knives-frank.itch.io/halfsword",
+            "description": "Physical medieval combat simulator",
+            "price": "Free"
+        },
+        {
+            "name": "Stillwater",
+            "developer": "Studio Clump",
+            "link": "https://studioclump.itch.io/stillwater",
+            "description": "Private Investigator Hugo Laurent, gets reeled into a murky mystery entangled in lies, secrets, and a family curse.",
+            "price": "Free"
+        },
+        {
+            "name": "Therapy with Dr. Albert Krueger",
+            "developer": "dino999z",
+            "link": "https://dino999z.itch.io/therapy-with-dr-albert-krueger",
+            "description": "Sign up for your therapy today!",
+            "price": "Free"
+        },
+        {
+            "name": "Paper Lily - Chapter 1",
+            "developer": "Leef 6010Verified Account",
+            "link": "https://leef6010.itch.io/paper-lily-chapter-1",
+            "description": "A slightly larger unconventional horror RPG in which there is always another way!",
+            "price": "Free"
+        },
+        {
+            "name": "Little Chef",
+            "developer": "Julien",
+            "link": "https://truebiger.itch.io/little-chef",
+            "description": "A fun and cute 2D physics-based cooking game with a focus on experimentation and discovery.",
+            "price": "Free"
+        },
+        {
+            "name": "Sailing with Stans - A Sea Grunks Dating Sim (DEMO)",
+            "developer": "VICARTLESS",
+            "link": "https://vicartless.itch.io/sailing-with-stans-demo",
+            "description": "Stan and Ford stumble upon an anomaly at sea which turns out to be you. While they patch you back up, romance blossoms.",
+            "price": "Free"
+        },
+        {
+            "name": "Promises to Keep",
+            "developer": "Promises to Keep VN",
+            "link": "https://promises-to-keep-vn.itch.io/promises-to-keep",
+            "description": "A Furry, Wintertime Slice of Life Story",
+            "price": "Free"
+        },
+        {
+            "name": "ZENO remake",
+            "developer": "\u00e6\u0097\u00a8\u00e5\u0091\u00b3\u00e3\u0081\u00be\u00e3\u0081\u00a5",
+            "link": "https://maduzu.itch.io/zeno",
+            "description": "\u00e2\u0080\u0095\u00e2\u0080\u0095\u00e5\u0083\u0095\u00e3\u0081\u00af\u00e6\u0082\u0094\u00e3\u0082\u0084\u00e3\u0081\u00be\u00e3\u0081\u00aa\u00e3\u0081\u0084",
+            "price": "Free"
+        },
+        {
+            "name": "Wake Me Up If You Need Me",
+            "developer": "rice",
+            "link": "https://rice373.itch.io/wake-me-up-if-you-need-me",
+            "description": "wake up a cute sleepy grumpy boy at 1AM",
+            "price": "Free"
+        },
+        {
+            "name": "Blackout",
+            "developer": "FRESH",
+            "link": "https://freshgames.itch.io/blackout",
+            "description": "Point & click adventure set in a spooky house!",
+            "price": "Free"
+        },
+        {
+            "name": "what body?",
+            "developer": "bun_tired",
+            "link": "https://bun-tired.itch.io/what-body",
+            "description": "Clean your room!",
+            "price": "Free"
+        },
+        {
+            "name": "To eat a god",
+            "developer": "Soffis_mbm",
+            "link": "https://soffis-mbm.itch.io/to-eat-a-god",
+            "description": "A visual novel game",
+            "price": "Free"
+        },
+        {
+            "name": "Lost Constellation",
+            "developer": "FinjiVerified Account",
+            "link": "https://finji.itch.io/lost-constellation",
+            "description": "A ghost story from the world of Night In The Woods.",
+            "price": "Free"
+        },
+        {
+            "name": "Delivering Hope (hololive fangame)",
+            "developer": "David Wu SoftDev",
+            "link": "https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame",
+            "description": "How far can Hope go?",
+            "price": "Free"
+        },
+        {
+            "name": "(DEMO) There's Something Wrong With My Blind Date!",
+            "developer": "C2PHOS",
+            "link": "https://c2phos.itch.io/theres-something-wrong-with-my-blind-date-demo",
+            "description": "Forced on a blind date. And no, you can't leave.",
+            "price": "Free"
+        },
+        {
+            "name": "Adventures With Anxiety!",
+            "developer": "Nicky Case!",
+            "link": "https://ncase.itch.io/anxiety",
+            "description": "An interactive story about anxiety. You play *as* the anxiety",
+            "price": "Free"
+        },
+        {
+            "name": "irori",
+            "developer": "pomepomelo",
+            "link": "https://pomepomelo.itch.io/irori",
+            "description": "A travelling kitchen, a humble respite for travellers.",
+            "price": "Free"
+        },
+        {
+            "name": "Hello Charlotte EP1: Junk Food, Gods and Teddy Bears",
+            "developer": "etherane",
+            "link": "https://etherane.itch.io/hello-charlotte-ep1",
+            "description": "Hello, my Puppeteer.",
+            "price": "Free"
+        },
+        {
+            "name": "MyRobot (Surfboard Update)",
+            "developer": "sgthale",
+            "link": "https://sgthale.itch.io/myrobot",
+            "description": "Build your own Robot Companion!",
+            "price": "Free"
+        },
+        {
+            "name": "It gets so lonely here",
+            "developer": "ebi-hime",
+            "link": "https://ebihime.itch.io/lonely",
+            "description": "A yandere yuri visual novel with a fairytale theme. Can you escape from your mysterious pursuer?",
+            "price": "Free"
+        },
+        {
+            "name": "You And Me",
+            "developer": "Kathinka",
+            "link": "https://kathinkapng.itch.io/you-and-me",
+            "description": "A short GL RPG-Maker game made with washitape.",
+            "price": "Free"
+        },
+        {
+            "name": "THE VHS PARADISE",
+            "developer": "fedev",
+            "link": "https://fedev21.itch.io/the-vhs-paradise",
+            "description": "Serve customers and deal with thieves.",
+            "price": "Free"
+        },
+        {
+            "name": "Mr.TomatoSIn bundle",
+            "developer": "OXTORD games",
+            "link": "https://oxtord.itch.io/mrtomatos",
+            "description": "Welcome to my game, buddy!",
+            "price": "Free"
+        },
+        {
+            "name": "Forest Ranger Services: Episode 2 Teaser (FRS)",
+            "developer": "GuardHouse",
+            "link": "https://guardhouse.itch.io/forest-ranger-services-episode-2-teaser-frs",
+            "description": "Reacreation of TRUE EVENTS!!!",
+            "price": "Free"
+        },
+        {
+            "name": "First Cut",
+            "developer": "Drasnus",
+            "link": "https://drasnus.itch.io/first-cut",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "purrgatory",
+            "developer": "Niv \u00f0\u009f\u00a6\u008c",
+            "link": "https://nivrad00.itch.io/purrgatory",
+            "description": "a slice-of-death adventure",
+            "price": "Free"
+        },
+        {
+            "name": "Vincent: The Secret of Myers",
+            "developer": "dino999z",
+            "link": "https://dino999z.itch.io/vincent-the-secret-of-myers",
+            "description": "A horror adventure visual novel with point & click components",
+            "price": "Free"
+        },
+        {
+            "name": "Battle for Wesnoth",
+            "developer": "WesnothVerified Account",
+            "link": "https://wesnoth.itch.io/battle-for-wesnoth",
+            "description": "An open source turn based strategy game.",
+            "price": "Free"
+        },
+        {
+            "name": "Cleaning Redville",
+            "developer": "DopplerGhost",
+            "link": "https://dopplerghost.itch.io/cleaning-redville",
+            "description": "A short horror game about cleaning a dangerous town.",
+            "price": "Free"
+        },
+        {
+            "name": "Dressup With Lola",
+            "developer": "Diby0",
+            "link": "https://diby0.itch.io/dressup-with-lola",
+            "description": "Dressup Game like the nostalgic 2000s flash games in girlsgogames.com",
+            "price": "Free"
+        },
+        {
+            "name": "Stuck in a Yandere Visual Novel... HELP!!",
+            "developer": "pumpkin spike",
+            "link": "https://pumpkin-spike.itch.io/stuck-in-a-yandere-visual-novel-help",
+            "description": "Escape from your suitors!",
+            "price": "Free"
+        },
+        {
+            "name": "When Twilight Strikes",
+            "developer": "evertides",
+            "link": "https://evertides.itch.io/when-twilight-strikes",
+            "description": "what happens when your boss goes missing in a supernatural world? you go and find him, of course.",
+            "price": "Free"
+        },
+        {
+            "name": "Eloquent Countenance",
+            "developer": "racheldrawsthis",
+            "link": "https://racheldrawsthis.itch.io/eloquent-countenance",
+            "description": "A short RPG horror/story game about nosebleeds, guardian angels and a funeral",
+            "price": "Free"
+        },
+        {
+            "name": "Astra's Garden",
+            "developer": "NomnomNami",
+            "link": "https://nomnomnami.itch.io/astras-garden",
+            "description": "a healing game. let's grow together!",
+            "price": "Free"
+        },
+        {
+            "name": "The Mijadore vase",
+            "developer": "EdD",
+            "link": "https://cajonnostalgia.itch.io/mijadore",
+            "description": "(ZX Spectrum 48k & 128k)",
+            "price": "Free"
+        },
+        {
+            "name": "Lookouts",
+            "developer": "paranoidhawk",
+            "link": "https://paranoidhawk.itch.io/lookouts",
+            "description": "A fateful meeting of queer outlaws in the desert.",
+            "price": "Free"
+        },
+        {
+            "name": "Security Booth",
+            "developer": "Kyle Horwood",
+            "link": "https://3dkyle.itch.io/security-booth",
+            "description": "A Short VHS PSX Horror Game.",
+            "price": "Free"
+        },
+        {
+            "name": "I love my follower (count)",
+            "developer": "But Wholesome Games",
+            "link": "https://but-wholesome-games.itch.io/followercount",
+            "description": "A stat-raising Boys' Love visual novel about an eldritch horror catboy and his faithful priest.  Nya.",
+            "price": "Free"
+        },
+        {
+            "name": "Helltaker",
+            "developer": "vanripper",
+            "link": "https://vanripper.itch.io/helltaker",
+            "description": "Sharply dressed demon girls.",
+            "price": "Free"
+        },
+        {
+            "name": "Gentle Fall [Demo]",
+            "developer": "Isa, Isa",
+            "link": "https://isattt.itch.io/gentle-fall",
+            "description": "As the leaves fell... i felt the need to protect you forever.",
+            "price": "Free"
+        },
+        {
+            "name": "FAVOR (EPISODE 2 NOW OUT!)",
+            "developer": "CONCRETEPARASITE",
+            "link": "https://concreteparasite.itch.io/favor",
+            "description": "Survive Z's obsessive intrigue in 'Favor'; a yandere horror VN",
+            "price": "Free"
+        },
+        {
+            "name": "The Virus Game",
+            "developer": "oofteriz",
+            "link": "https://oofteriz.itch.io/the-virus-game",
+            "description": "Don't download any crap onto your computer! And if you downloaded it, then meet the Virus!",
+            "price": "Free"
+        },
+        {
+            "name": "Mushroom Musume",
+            "developer": "MortallyMoonstruckGames",
+            "link": "https://mortallymoonstruckgames.itch.io/mushroom-musume",
+            "description": "Grow a mushroom from a spore to a fine young woman!",
+            "price": "Free"
+        },
+        {
+            "name": "Deepest Sword",
+            "developer": "Cosmic Adventure Squad",
+            "link": "https://cosmicadventuresquad.itch.io/deepest-sword",
+            "description": "Plunge your sword deep into the dragon's heart!",
+            "price": "Free"
+        },
+        {
+            "name": "Just Kiss Him Already!",
+            "developer": "Ekkoberry",
+            "link": "https://ekkoberry.itch.io/just-kiss-him-already",
+            "description": "Help two cute boys get together!",
+            "price": "Free"
+        },
+        {
+            "name": "good morning!",
+            "developer": "cnnmon",
+            "link": "https://cnnmon.itch.io/goodmorning",
+            "description": "a morning routine simulator \u00ef\u00bd\u00a1\u00ef\u00bd\u00a5:*:\u00ef\u00bd\u00a5\u00ef\u00be\u009f\u00e2\u0098\u0085,\u00ef\u00bd\u00a1\u00ef\u00bd\u00a5",
+            "price": "Free"
+        },
+        {
+            "name": "b-e-e-t-l-e",
+            "developer": "loafy co.",
+            "link": "https://loafyco.itch.io/b-e-e-t-l-e",
+            "description": "A relaxing typing game",
+            "price": "Free"
+        },
+        {
+            "name": "Dungeon Duel Monsters",
+            "developer": "Mika",
+            "link": "https://mikaygo.itch.io/ddm",
+            "description": "Yugioh Roguelike with PvP and PvDM modes.",
+            "price": "Free"
+        },
+        {
+            "name": "Smiley Dusty",
+            "developer": "4DpixelGames",
+            "link": "https://4dpixel.itch.io/smiley-dusty",
+            "description": "Something smiles from Outside, learning what hunts in the night.",
+            "price": "Free"
+        },
+        {
+            "name": "Tender Lovin' Cannibal [DEMO]",
+            "developer": "Rae1347",
+            "link": "https://rae1347.itch.io/tender-lovin-cannibal",
+            "description": "\"Did you know... I love you?\"",
+            "price": "Free"
+        },
+        {
+            "name": "Deadeus",
+            "developer": "-IZMA-",
+            "link": "https://izma.itch.io/deadeus",
+            "description": "A horror game for the original Gameboy!",
+            "price": "Free"
+        },
+        {
+            "name": "Ned Flanders KILLS The Simpsons!",
+            "developer": "David Mills",
+            "link": "https://shadowband.itch.io/ned-flanders-kills-the-simpsons",
+            "description": "He's a Mur-diddly-urdeler!",
+            "price": "Free"
+        },
+        {
+            "name": "Halloween 1",
+            "developer": "Dami\u00c3\u00a1n Gonz\u00c3\u00a1lez",
+            "link": "https://damiangonzalez.itch.io/halloween",
+            "description": "A short horror game based on 1978 movie",
+            "price": "Free"
+        },
+        {
+            "name": "one night, hot springs",
+            "developer": "npckc",
+            "link": "https://npckc.itch.io/one-night-hot-springs",
+            "description": "a young transgender woman goes to the hot springs.",
+            "price": "Free"
+        },
+        {
+            "name": "Please don't hate Christmas! [Remake] (Full Version)",
+            "developer": "rice love coffee",
+            "link": "https://rice-love-coffee.itch.io/please-dont-hate-christmas",
+            "description": "Fall in love with a yandere Santa Claus!",
+            "price": "Free"
+        },
+        {
+            "name": "Nippets",
+            "developer": "Vatnisse Interactive",
+            "link": "https://vatnisse-interactive.itch.io/nippets",
+            "description": "Hidden Object Game",
+            "price": "Free"
+        },
+        {
+            "name": "A Hole in My Room",
+            "developer": "Lexip_Games",
+            "link": "https://lexip-games.itch.io/a-hole-in-my-room",
+            "description": "A strange Hole is in the ceiling of the room...",
+            "price": "Free"
+        },
+        {
+            "name": "Threads of You: Beyond the Bay",
+            "developer": "Lavendeer Studios",
+            "link": "https://lavendeerstudios.itch.io/threads-of-you-beyond-the-bay",
+            "description": "A broken down car, 2 weeks in a hidden seaside town, and 7 men waiting to sweep you off your feet.",
+            "price": "Free"
+        },
+        {
+            "name": "Haunted PS1 Demo Disc 2021",
+            "developer": "The Haunted PS1",
+            "link": "https://hauntedps1.itch.io/demodisc2021",
+            "description": "Admission is FREE! Visit now, and you might even leave alive...",
+            "price": "Free"
+        },
+        {
+            "name": "DELTATRAVELER",
+            "developer": "VyletBunni",
+            "link": "https://vyletbunni.itch.io/deltatraveler",
+            "description": "Kris, Susie, and Noelle travel between worlds to make their way back home.",
+            "price": "Free"
+        },
+        {
+            "name": "LSD: Revamped",
+            "developer": "Figglewatts",
+            "link": "https://figglewatts.itch.io/lsd-revamped",
+            "description": "A fan made remake of the cult-classic game LSD: Dream Emulator.",
+            "price": "Free"
+        },
+        {
+            "name": "Egg Fried Rice",
+            "developer": "Grainwood Games",
+            "link": "https://grainwood-games.itch.io/egg-fried-rice",
+            "description": "Short PSX inspired Horror experience.",
+            "price": "Free"
+        },
+        {
+            "name": "River of Rage",
+            "developer": "Dace Games",
+            "link": "https://thrive.itch.io/river-of-rage",
+            "description": "A river rafting nightmare",
+            "price": "Free"
+        },
+        {
+            "name": "Sheepy: A Short Adventure",
+            "developer": "MrSuicideSheep",
+            "link": "https://mrsuicidesheep.itch.io/sheepy",
+            "description": "Help Sheepy, as he explores a forgotten and broken world.",
+            "price": "Free"
+        },
+        {
+            "name": "Dead Names",
+            "developer": "flower studio",
+            "link": "https://flowerstudio.itch.io/dead-names",
+            "description": "Short sci-fi VN about letting go.",
+            "price": "Free"
+        },
+        {
+            "name": "Last Train Home",
+            "developer": "hby",
+            "link": "https://hby.itch.io/last-train-home",
+            "description": "A short game about a guy stuck on a train.",
+            "price": "Free"
+        },
+        {
+            "name": "Different Strokes",
+            "developer": "ScotttS",
+            "link": "https://scottts.itch.io/different-strokes",
+            "description": "Collaborative Online Painting Game",
+            "price": "Free"
+        },
+        {
+            "name": "missed messages.",
+            "developer": "angela he",
+            "link": "https://zephyo.itch.io/missed-message",
+            "description": "\u00e2\u0080\u0098goth gf\u00e2\u0080\u0099s iPhone\u00e2\u0080\u0099 airdrops you - accept or decline? A love/horror story about life, death, & memes.",
+            "price": "Free"
+        },
+        {
+            "name": "KLEIN v.0.1",
+            "developer": "HIMEIRO",
+            "link": "https://himeiro.itch.io/kleinv01-demo",
+            "description": "How much is too much for an A.I boyfriend? You decide!",
+            "price": "Free"
+        },
+        {
+            "name": "Yandere Heaven",
+            "developer": "Melancholy Marionette",
+            "link": "https://melancholy-marionette.itch.io/yandere-heaven",
+            "description": "See true love through rose-tinted glasses in this whacky world where yanderes rule.",
+            "price": "Free"
+        },
+        {
+            "name": "A Cottage Story",
+            "developer": "LadyMeowsith",
+            "link": "https://ladymeowsith.itch.io/a-cottage-story",
+            "description": "A cottagecore and fantasy inspired dating sim.",
+            "price": "Free"
+        },
+        {
+            "name": "New Super Mario Bros. - Mario Vs Luigi",
+            "developer": "ipodtouch0218",
+            "link": "https://ipodtouch0218.itch.io/nsmb-mariovsluigi",
+            "description": "No description",
+            "price": "Free"
+        },
+        {
+            "name": "Time is Solid Here",
+            "developer": "AlgebraFalcon",
+            "link": "https://algebrafalcon.itch.io/time-is-solid-here",
+            "description": "A horror puzzle game about helping people move on.",
+            "price": "Free"
+        },
+        {
+            "name": "plant daddy",
+            "developer": "brady soglin",
+            "link": "https://overfull.itch.io/plantdaddy",
+            "description": "grow plants in your sunny apartment!",
+            "price": "Free"
+        },
+        {
+            "name": "POOM",
+            "developer": "freds72",
+            "link": "https://freds72.itch.io/poom",
+            "description": "DOOM reinvented for PICO8",
+            "price": "Free"
+        }
+    ]
+}
